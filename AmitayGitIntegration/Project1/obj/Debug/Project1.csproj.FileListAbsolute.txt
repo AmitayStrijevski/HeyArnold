@@ -1,0 +1,6 @@
+C:\Git\HeyArnold\AmitayGitIntegration\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Git\HeyArnold\AmitayGitIntegration\Project1\bin\Debug\Project1.dll.config
+C:\Git\HeyArnold\AmitayGitIntegration\Project1\bin\Debug\Project1.dll
+C:\Git\HeyArnold\AmitayGitIntegration\Project1\bin\Debug\Project1.pdb
+C:\Git\HeyArnold\AmitayGitIntegration\Project1\obj\Debug\Project1.dll
+C:\Git\HeyArnold\AmitayGitIntegration\Project1\obj\Debug\Project1.pdb
